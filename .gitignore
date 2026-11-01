@@ -1,0 +1,31 @@
+# IDE configuration
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Compiled/generated files
+*.class
+out/
+bin/
+build/
+target/
+*.log
+
+# Local personal data (at any directory level)
+members.json
+trainers.json
+members*.json
+trainers*.json
+
+# Academic reports and local report exports
+*[Rr][Ee][Pp][Oo][Rr][Tt]*.docx
+*[Rr][Ee][Pp][Oo][Rr][Tt]*.pdf
+reports/
+receipts/
+
+# OS files
+.DS_Store
+Thumbs.db

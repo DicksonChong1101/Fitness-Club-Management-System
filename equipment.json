@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Dumbbell",
+    "relatedActivity": "Dumbbell Curl",
+    "status": "Available"
+  },
+  {
+    "id": 2,
+    "name": "Bench",
+    "relatedActivity": "Bench Press",
+    "status": "Available"
+  },
+  {
+    "id": 3,
+    "name": "Squat Rack",
+    "relatedActivity": "Squat",
+    "status": "Available"
+  },
+  {
+    "id": 4,
+    "name": "Barbell",
+    "relatedActivity": "Deadlift",
+    "status": "Available"
+  },
+  {
+    "id": 5,
+    "name": "Pull-up Bar",
+    "relatedActivity": "Pull-up",
+    "status": "Available"
+  }
+]
